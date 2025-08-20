@@ -1,0 +1,24 @@
+Mining Online Product Evaluation System based on Ratings and Review
+
+in this project we have the 2 modules 
+ 
+Admin:
+Login the username and password
+2. View all registration user and authorized them.
+3. Add Product category
+4. Category wise add the product
+5. View all product rating and reviews
+6. Sentiment similarity by reviews
+7. view all recommended product and rand result
+8. Graph
+
+User:
+1.Register
+2 login after authorized the admin
+3. Search Friends--->Now accept the friends request-->Accept and reject with your wise
+4. View & Delete Friend Request
+5. Search product--->Like, dislike, recommend to your friends.. stills now view the like rate is 1 again like is click count is increaseing
+5 View all Friends recommend products--->recommend to your friends padmasri, with feedback.. now you can view the padmasri recommend view page..
+6. logout
+
+Thank you for watching this video....
